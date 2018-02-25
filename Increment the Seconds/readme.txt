@@ -1,0 +1,2 @@
+Increment the Seconds
+Given an array of numbers arr, add 1 to every second element, specifically those whose index is odd (arr[1], [3], [5], etc). Afterward, console.log each array value and return arr.
